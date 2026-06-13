@@ -1,0 +1,6 @@
+{
+  "name": "OmniUtil",
+  "description": "Multi-utility platform featuring image compression, BMI and age calculators, and QR code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
